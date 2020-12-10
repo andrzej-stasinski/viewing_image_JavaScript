@@ -1,6 +1,7 @@
 ## viewing an image in JavaScript
 
-how image in the middle of the screen
+#### how does it work
+the picture will be shown in the center of the screen
 
 one click - show image
 two click - hidden image
